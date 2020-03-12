@@ -1030,7 +1030,7 @@ Similarly, any page, and even mockups, can be broken down in reverse. Here's an 
 <summary>Starting point</summary>
 
 <p align="center">
-  <img src="/images/FBPost.png" width="400">
+  <img src="images/FBPost.png" width="400">
 </p>
 
 </details>
@@ -1039,8 +1039,8 @@ Similarly, any page, and even mockups, can be broken down in reverse. Here's an 
     <summary>Step 1</summary>
 
 <p align="center">
-  <img src="/images/WebPagePart1.jpg" width="400">
-  <img src="/images/postBoxes1.jpg" width="400">
+  <img src="images/WebPagePart1.jpg" width="400">
+  <img src="images/postBoxes1.jpg" width="400">
 </p>
     
  </details> 
@@ -1049,8 +1049,8 @@ Similarly, any page, and even mockups, can be broken down in reverse. Here's an 
     <summary>Step 2</summary>
 
 <p align="center">
-  <img src="/images/WebPagePart2.jpg" width="400">
-  <img src="/images/postBoxes2.jpg" width="400">
+  <img src="images/WebPagePart2.jpg" width="400">
+  <img src="images/postBoxes2.jpg" width="400">
 </p>
     
  </details>
@@ -1059,8 +1059,8 @@ Similarly, any page, and even mockups, can be broken down in reverse. Here's an 
     <summary>Step 3</summary>
     
 <p align="center">
-  <img src="/images/WebPagePart3.jpg" width="400">
-  <img src="/images/postBoxes3.jpg" width="400">
+  <img src="images/WebPagePart3.jpg" width="400">
+  <img src="images/postBoxes3.jpg" width="400">
 </p>
  </details>
  
@@ -1068,8 +1068,8 @@ Similarly, any page, and even mockups, can be broken down in reverse. Here's an 
     <summary>Step 4</summary>
     
 <p align="center">
-  <img src="/images/WebPagePart4.jpg" width="400">
-  <img src="/images/postBoxes4.jpg" width="400">
+  <img src="images/WebPagePart4.jpg" width="400">
+  <img src="images/postBoxes4.jpg" width="400">
 </p>
  </details>
  
@@ -1077,8 +1077,8 @@ Similarly, any page, and even mockups, can be broken down in reverse. Here's an 
     <summary>Step 5</summary>
     
 <p align="center">
-  <img src="/images/WebPagePart5.jpg" width="400">
-  <img src="/images/postBoxes5.jpg" width="400">
+  <img src="images/WebPagePart5.jpg" width="400">
+  <img src="images/postBoxes5.jpg" width="400">
 </p>
  </details>
 

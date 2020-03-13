@@ -1,0 +1,14 @@
+.overflow-container {
+    width: 50%;
+    height: 30vh;
+    background: rebeccapurple;
+    /* overflow property */
+    overflow: scroll;
+}
+
+.overflow-item {
+    width: 125px;
+    height: 125px;
+    background: turquoise;
+    margin: 15px auto;
+}

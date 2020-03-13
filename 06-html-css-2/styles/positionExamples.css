@@ -1,0 +1,63 @@
+/* Position Examples */
+body {
+    /* turn height into 200vh when showing sticky */
+    min-height: 200vh;
+}
+
+/* Static */
+.static {
+    width: 150px;
+    height: 150px;
+    background: tomato;
+    position: static;
+}
+
+/* Relative */
+.relative {
+    width: 150px;
+    height: 150px;
+    background: lightgoldenrodyellow;
+    position: relative;
+    /* can now use top, left, right, bottom */
+    top: 15px;
+    left: 15px;
+}
+
+/* Absolute */
+.absolute {
+    width: 300px;
+    height: 300px;
+    background: lightsalmon;
+    /* the parent needs to have a position or it will default to the document body */
+    position: relative;
+}
+
+.absolute > .absolute-child {
+    height: 75px;
+    width: 75px;
+    background: teal;
+    /* apply the absolute position */
+    position: absolute;
+    /* can now use top, left, right, bottom */
+    top: 20px;
+    right: 20px;
+}
+
+/* Fixed */
+.fixed {
+    width: 150px;
+    height: 150px;
+    background: orange;
+    position: fixed;
+    right: 10px;
+    top: 10px;
+}
+
+/* Sticky */
+.sticky {
+    width: 50px;
+    height: 50px;
+    background: lightpink;
+    position: sticky;
+    top: 10px;
+}

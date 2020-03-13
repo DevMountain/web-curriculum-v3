@@ -1,0 +1,28 @@
+.block {
+    width: 100px;
+    height: 100px;
+    background: darkmagenta;
+    display: block;
+}
+
+.inline {
+    color: #ff8c00;
+    display: inline;
+    /* Try adding height and width */
+    /* Notice how the height and width will not be adjusted */
+}
+
+.inline-block {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: #ff8c00;
+}
+
+.none {
+    width: 100px;
+    height: 100px;
+    background: darkmagenta;
+    display: none;
+    /* note this will note be displayed */
+}

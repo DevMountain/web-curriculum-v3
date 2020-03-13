@@ -1,0 +1,52 @@
+.flex-container {
+    width: 100%;
+    min-height: 15vh;
+    background: lightsalmon;
+    /* use flex box here to change layout for flex items */
+    display: flex;
+
+    /* flex-direction */
+    flex-direction: row;
+    /* justify content */
+    justify-content: space-around;
+    /* align items */
+    align-items: center;
+    /* flex wrap */
+    flex-wrap: wrap;
+}
+
+.flex-item {
+    width: 100px;
+    height: 100px;
+    background: lightskyblue;
+}
+
+
+/* Navbar CSS */
+.flex-navbar {
+    width: 100%;
+    height: 10vh;
+    background: #232323;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-navbar > h1 {
+    color: white;
+    font-size: 22px;
+    margin-left: 5%;
+}
+
+.flex-navbar > ul {
+    height: 100%;
+    width: 20%;
+    margin-right: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    list-style: none;
+}

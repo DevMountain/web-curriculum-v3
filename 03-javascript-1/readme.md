@@ -1,6 +1,8 @@
 # Javascript 1
 
-## Slideshow: https://slides.com/awestenskow/javascript-1#/
+Lecture Slides: https://slides.com/awestenskow/javascript-1#/
+
+Afternoon Project: https://github.com/DevMountain/javascript-1-afternoon
 
 1. [JavaScript 1 Lecture Notes](#JavaScript-1-Lecture-Notes)
 1. [Additional Resources](#additional-resources)

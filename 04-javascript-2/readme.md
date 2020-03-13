@@ -1,6 +1,8 @@
 # Javascript 2
 
-## Slideshow: https://slides.com/mattbodily/javascript-two
+Lecture Slides: https://slides.com/mattbodily/javascript-two
+
+Afternoon Project: https://github.com/DevMountain/javascript-2-afternoon-project
 
 1. [JavaScript 2 Lecture Notes](#JavaScript-2-Lecture-Notes)
 1. [Additional Resources](#additional-resources)

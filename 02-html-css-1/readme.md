@@ -1,6 +1,8 @@
 # Lesson Sections
 
-## Slideshow: https://slides.com/awestenskow/html-css-i#/
+Lecture Slides: https://slides.com/awestenskow/html-css-i#/
+
+Afternoon Project: https://github.com/DevMountain/html-layout
 
 1. [HTML/CSS 1 Lecture Notes](#HTMLCSS-1-Lecture-Notes)
    1. [HTML](#HTML)

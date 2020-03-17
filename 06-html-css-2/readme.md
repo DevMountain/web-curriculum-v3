@@ -1,13 +1,6 @@
 # HTML/CSS 2
 
-1. [HTML/CSS 2 Lecture Notes](#HTMLCSS-2-Lecture-Notes)
-1. [Additional Resources](#Additional-Resources)
-1. [HTML/CSS 2 Mini Project](#HTMLCSS-2-Mini-Project)
-1. [HTML/CSS 2 Afternoon Project](#HTMLCSS-2-Afternoon-Project)
-
-# Lecture Slides
-
-https://slides.com/awestenskow/html-css-2#/
+Lecture slides: https://slides.com/dmweb/html-css-2
 
 # Student Learning Objectives
 

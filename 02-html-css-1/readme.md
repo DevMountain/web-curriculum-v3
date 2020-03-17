@@ -1,6 +1,6 @@
 # Lesson Sections
 
-Lecture Slides: https://slides.com/awestenskow/html-css-i#/
+Lecture Slides: https://slides.com/dmweb/html-css-i
 
 Afternoon Project: https://github.com/DevMountain/html-layout
 

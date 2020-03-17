@@ -1,6 +1,6 @@
 # Javascript 1
 
-Lecture Slides: https://slides.com/awestenskow/javascript-1#/
+Lecture Slides: https://slides.com/dmweb/javascript-1
 
 Afternoon Project: https://github.com/DevMountain/javascript-1-afternoon
 

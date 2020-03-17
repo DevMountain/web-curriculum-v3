@@ -1,6 +1,6 @@
 # Javascript 3
 
-Lecture Slides: https://slides.com/awestenskow/javascript-3
+Lecture Slides: https://slides.com/dmweb/javascript-3
 
 Afternoon Project: https://github.com/DevMountain/javascript-3-afternoon-project
 

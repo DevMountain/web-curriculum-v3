@@ -4,6 +4,8 @@ In this lecture we will go more in depth about data and how it flows in the Reac
 
 Lecture Slides: https://slides.com/dmweb/react-2
 
+Mini Project: https://github.com/DevMountain/react-2-mini
+
 Afternoon Project (Drills 1 - 7): https://github.com/devmountain/react-drills
 
 # Student Learning Objectives

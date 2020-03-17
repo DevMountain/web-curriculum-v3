@@ -2,6 +2,8 @@
 
 Lecture Slides: https://slides.com/dmweb/javascript-5
 
+Lecture Code: https://repl.it/@TeamEdDM/javascript-5-lecture
+
 Afternoon Project (make sure to checkout to branch `web-dev-v3`): https://github.com/DevMountain/javascript-4-afternoon-project/tree/web-dev-v3
 
 # Lesson Sections

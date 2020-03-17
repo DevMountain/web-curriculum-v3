@@ -2,6 +2,8 @@
 
 Lecture slides: https://slides.com/dmweb/html-css-2
 
+Afternoon Project: Clone the layout of http://www.spacex.com
+
 # Student Learning Objectives
 
 - Student understands and can implement the position properties

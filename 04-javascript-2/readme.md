@@ -2,6 +2,8 @@
 
 Lecture Slides: https://slides.com/dmweb/javascript-2
 
+Lecture Code: https://repl.it/@TeamEdDM/javascript-2-lecture
+
 Afternoon Project: https://github.com/DevMountain/javascript-2-afternoon-project
 
 1. [JavaScript 2 Lecture Notes](#JavaScript-2-Lecture-Notes)

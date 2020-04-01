@@ -2,7 +2,7 @@
 
 In this lecture we discuss media queries and animations.
 
-Lecture Slides: https://slides.com/dmweb/copy-of-html-css-three
+Lecture Slides: https://slides.com/dmweb/html-css-3
 
 Afternoon Project: https://github.com/DevMountain/media-queries-afternoon
 

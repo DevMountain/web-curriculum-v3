@@ -11,7 +11,7 @@ All students should create a discord account and join the DevMountain Web server
 
 ### Git/Git-bash
 
-All students should download git.  Mac users can do so at the link below or by typing `git -v` into their terminal.  
+All students should download git.  Mac users can do so at the link below or by typing `git --version` into their terminal or at the following link: 
 
 MacOS - https://git-scm.com/downloads
 

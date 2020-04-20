@@ -35,7 +35,7 @@ All students must download Visual Studio Code.  This will be our code editor for
 
 Link - https://code.visualstudio.com/download
 
-Students using Macs will need to move the application from their downloads folder to their applications folder.  They will then need to install the code command. This is done by opening VSCode and typing `command + shift + p` to open the search bar. Type `shell command` and have students select the first option.
+Students using Macs will need to move the application from their downloads folder to their applications folder.  They will then need to install the code command. This is done by opening VSCode and typing `command + shift + p` to open the search bar. Type `shell command` and select the first option.
 
 Students using windows should change the default terminal in VSCode shell by typing `ctrl + shift + p` to open the search bar. Once the search bar is opened, have the students type `select default shell`. They will be able to select Bash as an option.
 

@@ -2,6 +2,8 @@
 
 Lecture Slides: https://slides.com/dmweb/javascript-7
 
+Lecture code: https://repl.it/@TeamEdDM/javascript-7-lecture
+
 ## Objectives
 
 - Errors

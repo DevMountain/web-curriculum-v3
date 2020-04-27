@@ -4,15 +4,7 @@ Lecture Slides: https://slides.com/dmweb/html-css-i
 
 Afternoon Project: https://github.com/DevMountain/html-layout
 
-1. [HTML/CSS 1 Lecture Notes](#HTMLCSS-1-Lecture-Notes)
-   1. [HTML](#HTML)
-   1. [CSS](#CSS)
-   1. [Visualizing HTML/CSS](#Visualizing-HTMLCSS)
-1. [Additional Resources](#additional-resources)
-1. [HTML/CSS 1 Mini Project](#HTMLCSS-1-Mini-Project)
-1. [HTML/CSS 1 Afternoon Project](#HTMLCSS-1-Afternoon-Project)
-
-# Student Learning Objectives
+## Student Learning Objectives
 
 <details>
     <summary>HTML</summary>

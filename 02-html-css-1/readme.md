@@ -983,19 +983,19 @@ Mockups can be as simple as a sketch on paper or a "wireframe", or as complicate
 <details>
     <summary>Simple Wireframe Mockup</summary>
     
-  ![simple-wireframe-example](/images/wireframe.jpeg)
+  ![simple-wireframe-example](/02-html-css-1/images/wireframe.jpeg)
 </details>
 
 <details>
     <summary>Abstract Mockup</summary>
     
- ![abstract-mockup-example](/images/mockup-abstract.png)
+ ![abstract-mockup-example](/02-html-css-1/images/mockup-abstract.png)
 </details>
 
 <details>
     <summary>High Fidelity Mockup</summary>  
     
-  ![mockup-detailed](/images/mockup-detailed.jpg)
+  ![mockup-detailed](/02-html-css-1/images/mockup-detailed.jpg)
 </details>
 
 ### Visualizing HTML/CSS

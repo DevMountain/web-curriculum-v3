@@ -5,8 +5,9 @@ This repository contains a list of installs students need to perform to set up t
 Here's the slideshow for the day: https://slides.com/dmweb/web-remote-orientation#/
 
 ## Downloads
+
 <details>
-  <summary>Show all downloads</summary>
+  <summary>Environment setup</summary>
 
 ### Discord
 
@@ -63,8 +64,8 @@ Students should recive an email to create an account for the LMS before starting
 Link - http://q.devmountain.com
 
 Introduce the Q to students, and explain expectations for using the Q. It's generally a good idea to recommend the students bookmark the Q so they have it easily accessible.
-</details>
 
+</details>
 
 # CLI, Git, & GitHub
 
@@ -153,4 +154,3 @@ We are able to easily make copies of existing repositories on GitHub, this is ca
 ```bash
 git clone "url for github repo"
 ```
-

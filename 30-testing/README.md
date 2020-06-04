@@ -4,7 +4,7 @@ Lecture Code: https://github.com/DevMountain/testing-lecture
 
 Mini Project: https://github.com/DevMountain/unit-testing-mini-new
 
-Afternoon Project: https://github.com/DevMountain/unit-testing-afternoon-new
+Afternoon Project (Optional): https://github.com/DevMountain/unit-testing-afternoon-new
 
 ## Learning Objectives
 

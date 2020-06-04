@@ -4,7 +4,7 @@ This repository contains a list of installs students need to perform to set up t
 
 Here's the slideshow for the day: https://slides.com/dmweb/web-remote-orientation#/
 
-## Downloads
+## Environment Setup
 
 <details>
   <summary>Environment setup</summary>

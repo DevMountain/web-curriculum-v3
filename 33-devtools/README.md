@@ -57,7 +57,7 @@ Above is an example problem:
 Now here is a problem that is a bit more complex:
 
 ```js
-var mySingleton = function () {
+var mySingleton = function() {
   function init() {
     function privateMethod() {
       console.log('I am private')
@@ -65,17 +65,17 @@ var mySingleton = function () {
     var privateVariable = 'Im also private'
     var privateRandomNumber = Math.random()
     return {
-      publicMethod: function () {
+      publicMethod: function() {
         console.log('The public can see me!')
       },
       publicProperty: 'I am also public',
-      getRandomNumber: function () {
+      getRandomNumber: function() {
         return privateRandomNumber
       },
     }
   }
   return {
-    getInstance: function () {
+    getInstance: function() {
       if (instance) {
         instance = init()
       }

@@ -130,7 +130,7 @@ This lecture teaches concepts in isolation, and then there is a mini project to 
   ```javascript
   const memoizedAdd = () => {
     let cache = {}
-    return value => {
+    return (value) => {
       if (value in cache) {
         console.log('Fetching from cache')
         return cache[value]

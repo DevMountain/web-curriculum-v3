@@ -4,6 +4,10 @@ Lecture Slides: https://slides.com/dmweb/advanced-react
 
 Lecture Code: https://github.com/DevMountain/react-7
 
+Render Props Project (Optional): https://github.com/DevMountain/renderprop-afternoon
+
+HOCs Project (Optional):https://github.com/DevMountain/hoc-afternoon
+
 ## Student Learning Objectives
 
 - [React 7](#react-7)
@@ -35,7 +39,7 @@ Use state gives us access to state values in a functional component. After impor
 ```js
 import React, { useState } from 'react'
 
-const functionalComponent = props => {
+const functionalComponent = (props) => {
   const [stateValue, setStateFunction] = useState(initialValue)
   //When you invoke useState, you pass it an initial value.  It returns to you a state value and a function for updating that state value.  This function will share functionality with the setState function that we are already familiar with.
 
@@ -83,12 +87,12 @@ export default () => {
   //This will be used to hold the value of our input box.
   return (
     <div>
-      {movies.map(movie => (
+      {movies.map((movie) => (
         <h2>{movie}</h2>
       ))}
       <input
         value={input}
-        onChange={e => setInput(e.target.value)}
+        onChange={(e) => setInput(e.target.value)}
         //Here we attach our setInput function to the onChange of our input box.
         type="text"
       />
@@ -136,10 +140,10 @@ The above is just an example of the format. Let's look at an example of a compon
 import React, { useState, useEffect } from 'react'
 import axios from 'axios'
 
-export default props => {
+export default (props) => {
   const [pokemon, updatePokemon] = useState([])
   useEffect(() => {
-    axios.get('https://pokeapi.co/api/v2/pokemon').then(res => {
+    axios.get('https://pokeapi.co/api/v2/pokemon').then((res) => {
       updatePokemon(res.data.results)
     })
   }, [])
@@ -197,7 +201,7 @@ const styles = {
   },
 }
 
-const BadButton = props => {
+const BadButton = (props) => {
   let style = { ...styles.default }
   //Styles will default to the default styling
   if (props.darkMode) {
@@ -240,9 +244,9 @@ const styles = {
   },
 }
 
-export default WrappedComponent => {
+export default (WrappedComponent) => {
   //OUR HOC TAKES IN A WRAPPED COMPONENT AS ITS PARAMETER
-  return props => {
+  return (props) => {
     let style = { ...styles.default }
 
     if (props.darkMode) {
@@ -264,7 +268,7 @@ import React from 'react'
 import styleHoc from './styleHoc'
 //We import our StyleHOC to be able to use it.
 
-const GoodButton = props => {
+const GoodButton = (props) => {
   return (
     <button {...props} style={props.style}>
       {props.text ? props.text : 'Good Button'}
@@ -284,7 +288,7 @@ Let's build a simple div to take advantage of our style HOC.
 import React from 'react'
 import styleHoc from './styleHoc'
 
-const Square = props => {
+const Square = (props) => {
   return (
     <div style={{ ...props.style, width: '100px', height: '100px' }}>
       HELLO I AM A SQUARE
@@ -302,9 +306,9 @@ Higher Order Components have many uses. Any kind of logic that we want to apply 
 ```js
 import React, { useEffect, useState } from 'react'
 
-export default WrappedComponent => {
+export default (WrappedComponent) => {
   //Our HOC is our default export.  It returns our wrapped component with some logic added in.
-  return props => {
+  return (props) => {
     const [isAdmin, setIsAdmin] = useState(false)
     //We set up a boolean on our state to track if a user is authenticated.  This will determine if they can see the wrapped component or not.
 
@@ -332,7 +336,7 @@ import React from 'react'
 import styleHoc from './styleHoc'
 import authHoc from './authHoc'
 
-const Square = props => {
+const Square = (props) => {
   return (
     <div style={{ ...props.style, width: '100px', height: '100px' }}>
       HELLO I AM A SQUARE

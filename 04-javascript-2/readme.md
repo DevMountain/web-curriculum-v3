@@ -645,7 +645,7 @@ consoleLogResult(() => return greeting('Andrew'))
 ## General
 
 - [javascript.info](https://javascript.info) - Matias' hands down, personal favorite resource for learning all things JavaScript, from 0 to hero.
-- [Understand JavaScript Callback Functions and Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/) - A more detailed breakdown of callback functions and how they work. A great resource if you want to review that further.
+- [JavaScript: What the Heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced) - A more detailed breakdown of callback functions and how they work. A great resource if you want to review that further.
 - [Array - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) - More detailed information on the array data type and the methods built in to it. We will go over many of these in the next few days but it's a good idea to start to acquaint yourself with them.
 - [Object - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object) - More detailed information on the object data type.
 - [Understand The JavaScript Ternary Operator like the ABCs ― Scotch.io](https://scotch.io/tutorials/understand-the-javascript-ternary-operator-like-abc) - More information on ternaries and how they work.

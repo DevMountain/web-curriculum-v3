@@ -80,7 +80,7 @@ We can add javascript to our same HTML file by using the `<script>` tag. Anythin
 
 ### External File
 
-We can also create another `.js` file to house all of our javascript. We just need to create another file that ends with the extension `.js` so our editors will know it is a javascript file. We will still be including a `<style>` tag, however we will not be putting our scripts inside of the tag. We will use the `src` attribute to connect the files. For the value of the `src` attribute, we will provide the path to the file.
+We can also create another `.js` file to house all of our javascript. We just need to create another file that ends with the extension `.js` so our editors will know it is a javascript file. We will still be including a `<script>` tag, however we will not be putting our scripts inside of the tag. We will use the `src` attribute to connect the files. For the value of the `src` attribute, we will provide the path to the file.
 
 Html File:
 
